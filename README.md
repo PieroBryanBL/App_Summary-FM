@@ -4,8 +4,8 @@
 
 ### Links
 
-- GitHub URL: [Link Repository]
-- Live Site URL: [Link Live here]
+- GitHub URL: [https://github.com/PieroBryanBL/Summary-FM]
+- Live Site URL: [https://pierobryanbl.github.io/Summary-FM/public/]
 
 ## Mi tiempo de desarrollo
 
